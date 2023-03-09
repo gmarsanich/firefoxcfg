@@ -10,7 +10,7 @@
 	/* Tabs */
   --mff-tab-border-radius: 1px;
   --mff-tab-color: #fefefa;
-  --mff-tab-font-family: "Noto Sans", sans;
+  --mff-tab-font-family: "Iosevka", sans;
   --mff-tab-font-size: 11pt;
   --mff-tab-font-weight: 400;
   --mff-tab-height: 32px;
@@ -23,11 +23,11 @@
 	/*URL bar*/
   --mff-urlbar-color: #98c1d9;
   --mff-urlbar-focused-color: #e0fbfc;
-  --mff-urlbar-font-family: "Noto Sans", sans;
+  --mff-urlbar-font-family: "Iosevka", sans;
   --mff-urlbar-font-size: 12pt;
   --mff-urlbar-font-weight: 700;
   --mff-urlbar-results-color: #e0fbfc;
-  --mff-urlbar-results-font-family: "mononoki NFM", serif;
+  --mff-urlbar-results-font-family: "Iosevka", sans;
   --mff-urlbar-results-font-size: 12pt;
   --mff-urlbar-results-font-weight: 700;
   --mff-urlbar-results-url-color: #98c1d9;
