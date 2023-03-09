@@ -354,3 +354,6 @@ image#sidebar-icon {
 toolbarseparator {
   display: none;
 }
+
+/* Remove close button*/
+.titlebar-buttonbox-container{ display:none }
