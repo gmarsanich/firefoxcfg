@@ -18,7 +18,7 @@
   --mff-tab-selected-bg: #562394;
   
 	/* Tabs with sound */
-  --mff-tab-soundplaying-bg: #9c89b8;
+  --mff-tab-soundplaying-bg: #562394;
   
 	/*URL bar*/
   --mff-urlbar-color: #98c1d9;
@@ -139,7 +139,7 @@ hbox.tab-content[pinned=true] .tab-text {
   min-height: var(--mff-tab-height) !important;
 }
 
-.tabbrowser-tab[soundplaying="true"] {
+.tabbrowser-tab[soundplaying="false"] {
   background-color: var(--mff-tab-soundplaying-bg) !important;
 }
 
