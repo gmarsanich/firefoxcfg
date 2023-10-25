@@ -51,11 +51,11 @@
 
 */
 
-.tab-background[selected="true"] {
+.tab-background[selected] {
   background: var(--mff-tab-selected-bg) !important;
 }
 
-.tab-background:not[visuallyselected] {
+.tab-background:not[selected] {
   background: var(--mff-tab-selected-bg) !important;
   opacity: 0.5 !important;
 }
