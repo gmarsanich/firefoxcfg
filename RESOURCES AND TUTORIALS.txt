@@ -1,0 +1,29 @@
+############### THIN SCROLLBAR ###############
+
+
+In about:config, set widget.non-native-theme.scrollbar.style to 5.
+
+The full list of available styles is:
+
+    0: Default Platform scrollbar style
+
+    1: macOs scrollbars
+
+    2: GTK Scrollbars
+
+    3: Android Scrollbars
+
+    4: Windows 10 scrollbars
+
+    5: Windows 11 scrollbars
+
+To get the thin effect, you need to set widget.non-native-theme.win11.scrollbar.force-overlay-style to true
+
+To get the overlay scrollbar set ui.useOverlayScrollbars to 1
+
+
+
+
+############### THEMES AND COMPONENTS ##############
+https://www.color.firefox.com
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme/themes_components_annotations.png
