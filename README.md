@@ -8,7 +8,7 @@ Includes the following:
 - [Right side MacOS min/max/close control buttons](https://github.com/datguypiko/Firefox-Mod-Blur/blob/master/EXTRA%20MODS/Min-max-close%20control%20buttons/Right%20side%20MacOS%20style%20buttons/min-max-close_buttons.css) by [datguypiko](github.com/datguypiko)
 
 # ENABLING CSS CONFIGURATION
-In about:config, set toolkit.legacyUserProfileCustomizations.stylesheets to true
+In ```about:config```, set ```toolkit.legacyUserProfileCustomizations.stylesheets``` to true
 
 Windows: 
 * Go to %APPDATA%\Mozilla\Firefox\Profiles\[yourprofile] (usually the topmost folder)
@@ -24,6 +24,8 @@ Linux/macOS:
 
 
 # THIN SCROLLBAR
+in ```about:config```
+
 Scrollbar style: ```widget.non-native-theme.scrollbar.style = 5```
 
 The full list of available styles is:
@@ -46,4 +48,4 @@ Overlay scrollbar: ```ui.useOverlayScrollbars = 1```
 
 * [Theme map](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme/themes_components_annotations.png)
 
-* [Iosevka font](typeof.net/Iosevka)
+* [Iosevka font](https://github.com/be5invis/Iosevka/)
