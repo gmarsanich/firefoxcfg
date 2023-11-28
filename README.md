@@ -20,7 +20,7 @@ Windows:
 * profit
 
 Linux/macOS:
-* Same as Windows, the profile folder should be in ~.mozilla/firefox, you'll find it I believe in you
+* Same as Windows, the profile folder should be in ~./mozilla/firefox, you'll find it I believe in you
 
 # THIN SCROLLBAR
 in ```about:config```
